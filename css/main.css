@@ -1,0 +1,55 @@
+html {
+  box-sizing: border-box;
+  background-color: #f0eee8;
+  color: #512200;
+  font-family: Georgia, serif;
+  line-height: 1.5;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+h1 {
+  font-family: "Dosis", sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+dl {
+  font-size: .875rem;
+}
+
+dd {
+  display: inline-block;
+}
+
+.btn {
+  background-color: #785439;
+  border-radius: 3px;
+  color: #fff;
+  font-family: "Dosis", sans-serif;
+  font-weight: bold;
+  font-size: 1rem;
+  padding: .4em .75em .5em;
+  text-decoration: none;
+}
+
+ p {
+   font-size: 1.125rem;
+ }
+
+body {
+  background-color: #dcd4cd;
+  border-color: #9a816d;
+  border-style: solid;
+  border-radius: 8px;
+  border-width: 3px;
+  padding: 1rem;
+}
+
+hr {
+  color: #9a816d;
+  display: block;
+  border-width: 3px;
+}
