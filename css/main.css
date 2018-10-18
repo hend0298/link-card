@@ -29,16 +29,16 @@ dd {
   background-color: #785439;
   border-radius: 3px;
   color: #fff;
-  font-family: "Dosis", sans-serif;
+  font-family: Dosis, sans-serif;
   font-weight: bold;
   font-size: 1rem;
   padding: .4em .75em .5em;
   text-decoration: none;
 }
 
- p {
-   font-size: 1.125rem;
- }
+p {
+  font-size: 1.125rem;
+}
 
 body {
   background-color: #dcd4cd;
@@ -50,6 +50,11 @@ body {
 }
 
 .link-card {
+  background-color: #dcd4cd;
   color: #512200;
   text-decoration: none;
+}
+
+.link-card:hover {
+  background-color: #cabdb2;
 }
