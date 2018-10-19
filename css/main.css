@@ -16,8 +16,8 @@ html {
 }
 
 dl {
-  border-top: 3px solid #9a816d;
-  border-bottom: 3px solid #9a816d;
+  border-top: 2px solid #9a816d;
+  border-bottom: 2px solid #9a816d;
   font-size: .875rem;
 }
 
@@ -43,7 +43,7 @@ dt {
 }
 
 p {
-  font-size: 1.125rem;
+  font-size: 1rem;
 }
 
 body {
@@ -52,7 +52,7 @@ body {
   border-style: solid;
   border-radius: 8px;
   border-width: 3px;
-  padding: 1rem;
+  padding: .4em .75em .5em;
 }
 
 .link-card {
