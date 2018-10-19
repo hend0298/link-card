@@ -23,6 +23,12 @@ dl {
 
 dd {
   display: inline-block;
+  min-width: 5%;
+}
+
+dt {
+  display: inline-block;
+  width: 50%;
 }
 
 .btn {
